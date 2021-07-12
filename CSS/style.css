@@ -250,6 +250,10 @@ main section {
   font-size: 0.9rem;
 }
 
+.content h3 span {
+  color: #a30438;
+}
+
 .content a {
   padding: 0.9rem 1rem;
   background: var(--grad);
